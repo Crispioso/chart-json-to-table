@@ -1,0 +1,55 @@
+{
+    "title": "Figure 12.2: Changes in the number of young people (aged 16 to 24) in the UK labour market, seasonally adjusted",
+    "subtitle": "",
+    "filename": "69aad3e1",
+    "source": "Labour Force Survey - Office for National Statistics",
+    "notes": "",
+    "altText": "Figure 12.2: Changes in the number of young people (aged 16 to 24) in the UK labour market, seasonally adjusted",
+    "labelInterval": "",
+    "decimalPlaces": "",
+    "unit": "Thousands",
+    "xAxisLabel": "",
+    "aspectRatio": "0.56",
+    "chartType": "bar",
+    "data": [
+        {
+            "": "Employment",
+            "Change since July to September 2015": "14",
+            "Change since October to December 2014": "120"
+        },
+        {
+            "": "Unemployment",
+            "Change since July to September 2015": "-31",
+            "Change since October to December 2014": "-118"
+        },
+        {
+            "": "Economically inactive",
+            "Change since July to September 2015": "-7",
+            "Change since October to December 2014": "-78"
+        },
+        {
+            "": "Household population",
+            "Change since July to September 2015": "-25",
+            "Change since October to December 2014": "-76"
+        }
+    ],
+    "headers": [
+        "",
+        "Change since July to September 2015",
+        "Change since October to December 2014"
+    ],
+    "series": [
+        "Change since July to September 2015",
+        "Change since October to December 2014"
+    ],
+    "categories": [
+        "Employment",
+        "Unemployment",
+        "Economically inactive",
+        "Household population"
+    ],
+    "finishAtHundred": false,
+    "files": [],
+    "type": "chart",
+    "uri": "/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/february2016/69aad3e1"
+}

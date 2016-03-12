@@ -1,0 +1,1170 @@
+{
+    "title": "Figure 1: Non-government sector financial liabilities, % nominal GDP, 1987-2015",
+    "subtitle": "",
+    "filename": "092bf764",
+    "source": "Office for National Statistics",
+    "notes": "",
+    "altText": "Shows the build-up of financial corporation debt from 1987 to 2015, represented as a percentage of nominal GDP.",
+    "labelInterval": "14",
+    "decimalPlaces": "2",
+    "unit": "Percentage",
+    "xAxisLabel": "",
+    "aspectRatio": "0.56",
+    "chartType": "barline",
+    "data": [
+        {
+            "Year": "1987 Q4",
+            "Households (and NPISH)": "62.16",
+            "Private non-financial corporations": "171.00",
+            "Financial corporations": "382.67",
+            "Total private sector liabilities": "615.82",
+            "date": "1987-11-01T00:00:00.000Z",
+            "label": "1987 Q4"
+        },
+        {
+            "Year": "1988 Q1",
+            "Households (and NPISH)": "62.48",
+            "Private non-financial corporations": "172.82",
+            "Financial corporations": "378.21",
+            "Total private sector liabilities": "613.51",
+            "date": "1988-02-01T00:00:00.000Z",
+            "label": "1988 Q1"
+        },
+        {
+            "Year": "1988 Q2",
+            "Households (and NPISH)": "63.79",
+            "Private non-financial corporations": "177.58",
+            "Financial corporations": "386.47",
+            "Total private sector liabilities": "627.83",
+            "date": "1988-04-30T23:00:00.000Z",
+            "label": "1988 Q2"
+        },
+        {
+            "Year": "1988 Q3",
+            "Households (and NPISH)": "65.35",
+            "Private non-financial corporations": "176.43",
+            "Financial corporations": "386.94",
+            "Total private sector liabilities": "628.72",
+            "date": "1988-07-31T23:00:00.000Z",
+            "label": "1988 Q3"
+        },
+        {
+            "Year": "1988 Q4",
+            "Households (and NPISH)": "65.69",
+            "Private non-financial corporations": "171.11",
+            "Financial corporations": "377.49",
+            "Total private sector liabilities": "614.29",
+            "date": "1988-11-01T00:00:00.000Z",
+            "label": "1988 Q4"
+        },
+        {
+            "Year": "1989 Q1",
+            "Households (and NPISH)": "65.81",
+            "Private non-financial corporations": "180.89",
+            "Financial corporations": "392.51",
+            "Total private sector liabilities": "639.21",
+            "date": "1989-02-01T00:00:00.000Z",
+            "label": "1989 Q1"
+        },
+        {
+            "Year": "1989 Q2",
+            "Households (and NPISH)": "66.29",
+            "Private non-financial corporations": "180.42",
+            "Financial corporations": "402.27",
+            "Total private sector liabilities": "648.99",
+            "date": "1989-04-30T23:00:00.000Z",
+            "label": "1989 Q2"
+        },
+        {
+            "Year": "1989 Q3",
+            "Households (and NPISH)": "66.94",
+            "Private non-financial corporations": "183.26",
+            "Financial corporations": "402.90",
+            "Total private sector liabilities": "653.10",
+            "date": "1989-07-31T23:00:00.000Z",
+            "label": "1989 Q3"
+        },
+        {
+            "Year": "1989 Q4",
+            "Households (and NPISH)": "67.61",
+            "Private non-financial corporations": "182.50",
+            "Financial corporations": "406.50",
+            "Total private sector liabilities": "656.61",
+            "date": "1989-11-01T00:00:00.000Z",
+            "label": "1989 Q4"
+        },
+        {
+            "Year": "1990 Q1",
+            "Households (and NPISH)": "67.94",
+            "Private non-financial corporations": "183.59",
+            "Financial corporations": "406.36",
+            "Total private sector liabilities": "657.90",
+            "date": "1990-02-01T00:00:00.000Z",
+            "label": "1990 Q1"
+        },
+        {
+            "Year": "1990 Q2",
+            "Households (and NPISH)": "69.07",
+            "Private non-financial corporations": "186.33",
+            "Financial corporations": "394.17",
+            "Total private sector liabilities": "649.57",
+            "date": "1990-04-30T23:00:00.000Z",
+            "label": "1990 Q2"
+        },
+        {
+            "Year": "1990 Q3",
+            "Households (and NPISH)": "69.57",
+            "Private non-financial corporations": "172.05",
+            "Financial corporations": "384.51",
+            "Total private sector liabilities": "626.12",
+            "date": "1990-07-31T23:00:00.000Z",
+            "label": "1990 Q3"
+        },
+        {
+            "Year": "1990 Q4",
+            "Households (and NPISH)": "70.21",
+            "Private non-financial corporations": "177.38",
+            "Financial corporations": "389.50",
+            "Total private sector liabilities": "637.09",
+            "date": "1990-11-01T00:00:00.000Z",
+            "label": "1990 Q4"
+        },
+        {
+            "Year": "1991 Q1",
+            "Households (and NPISH)": "70.39",
+            "Private non-financial corporations": "192.08",
+            "Financial corporations": "403.25",
+            "Total private sector liabilities": "665.73",
+            "date": "1991-02-01T00:00:00.000Z",
+            "label": "1991 Q1"
+        },
+        {
+            "Year": "1991 Q2",
+            "Households (and NPISH)": "71.55",
+            "Private non-financial corporations": "192.93",
+            "Financial corporations": "406.19",
+            "Total private sector liabilities": "670.66",
+            "date": "1991-04-30T23:00:00.000Z",
+            "label": "1991 Q2"
+        },
+        {
+            "Year": "1991 Q3",
+            "Households (and NPISH)": "72.12",
+            "Private non-financial corporations": "199.06",
+            "Financial corporations": "404.56",
+            "Total private sector liabilities": "675.74",
+            "date": "1991-07-31T23:00:00.000Z",
+            "label": "1991 Q3"
+        },
+        {
+            "Year": "1991 Q4",
+            "Households (and NPISH)": "71.96",
+            "Private non-financial corporations": "191.44",
+            "Financial corporations": "389.83",
+            "Total private sector liabilities": "653.24",
+            "date": "1991-11-01T00:00:00.000Z",
+            "label": "1991 Q4"
+        },
+        {
+            "Year": "1992 Q1",
+            "Households (and NPISH)": "71.56",
+            "Private non-financial corporations": "194.13",
+            "Financial corporations": "394.56",
+            "Total private sector liabilities": "660.25",
+            "date": "1992-02-01T00:00:00.000Z",
+            "label": "1992 Q1"
+        },
+        {
+            "Year": "1992 Q2",
+            "Households (and NPISH)": "71.75",
+            "Private non-financial corporations": "196.31",
+            "Financial corporations": "396.00",
+            "Total private sector liabilities": "664.05",
+            "date": "1992-04-30T23:00:00.000Z",
+            "label": "1992 Q2"
+        },
+        {
+            "Year": "1992 Q3",
+            "Households (and NPISH)": "72.59",
+            "Private non-financial corporations": "195.47",
+            "Financial corporations": "415.79",
+            "Total private sector liabilities": "683.85",
+            "date": "1992-07-31T23:00:00.000Z",
+            "label": "1992 Q3"
+        },
+        {
+            "Year": "1992 Q4",
+            "Households (and NPISH)": "72.60",
+            "Private non-financial corporations": "207.74",
+            "Financial corporations": "434.67",
+            "Total private sector liabilities": "715.02",
+            "date": "1992-11-01T00:00:00.000Z",
+            "label": "1992 Q4"
+        },
+        {
+            "Year": "1993 Q1",
+            "Households (and NPISH)": "72.58",
+            "Private non-financial corporations": "211.33",
+            "Financial corporations": "452.61",
+            "Total private sector liabilities": "736.52",
+            "date": "1993-02-01T00:00:00.000Z",
+            "label": "1993 Q1"
+        },
+        {
+            "Year": "1993 Q2",
+            "Households (and NPISH)": "72.22",
+            "Private non-financial corporations": "215.14",
+            "Financial corporations": "469.99",
+            "Total private sector liabilities": "757.35",
+            "date": "1993-04-30T23:00:00.000Z",
+            "label": "1993 Q2"
+        },
+        {
+            "Year": "1993 Q3",
+            "Households (and NPISH)": "72.04",
+            "Private non-financial corporations": "220.17",
+            "Financial corporations": "476.86",
+            "Total private sector liabilities": "769.07",
+            "date": "1993-07-31T23:00:00.000Z",
+            "label": "1993 Q3"
+        },
+        {
+            "Year": "1993 Q4",
+            "Households (and NPISH)": "71.86",
+            "Private non-financial corporations": "228.61",
+            "Financial corporations": "483.87",
+            "Total private sector liabilities": "784.34",
+            "date": "1993-11-01T00:00:00.000Z",
+            "label": "1993 Q4"
+        },
+        {
+            "Year": "1994 Q1",
+            "Households (and NPISH)": "71.59",
+            "Private non-financial corporations": "213.94",
+            "Financial corporations": "467.42",
+            "Total private sector liabilities": "752.95",
+            "date": "1994-02-01T00:00:00.000Z",
+            "label": "1994 Q1"
+        },
+        {
+            "Year": "1994 Q2",
+            "Households (and NPISH)": "71.04",
+            "Private non-financial corporations": "200.33",
+            "Financial corporations": "447.81",
+            "Total private sector liabilities": "719.18",
+            "date": "1994-04-30T23:00:00.000Z",
+            "label": "1994 Q2"
+        },
+        {
+            "Year": "1994 Q3",
+            "Households (and NPISH)": "70.86",
+            "Private non-financial corporations": "201.04",
+            "Financial corporations": "443.78",
+            "Total private sector liabilities": "715.68",
+            "date": "1994-07-31T23:00:00.000Z",
+            "label": "1994 Q3"
+        },
+        {
+            "Year": "1994 Q4",
+            "Households (and NPISH)": "70.76",
+            "Private non-financial corporations": "202.11",
+            "Financial corporations": "447.46",
+            "Total private sector liabilities": "720.33",
+            "date": "1994-11-01T00:00:00.000Z",
+            "label": "1994 Q4"
+        },
+        {
+            "Year": "1995 Q1",
+            "Households (and NPISH)": "70.78",
+            "Private non-financial corporations": "205.69",
+            "Financial corporations": "467.42",
+            "Total private sector liabilities": "743.90",
+            "date": "1995-02-01T00:00:00.000Z",
+            "label": "1995 Q1"
+        },
+        {
+            "Year": "1995 Q2",
+            "Households (and NPISH)": "70.85",
+            "Private non-financial corporations": "210.78",
+            "Financial corporations": "475.44",
+            "Total private sector liabilities": "757.07",
+            "date": "1995-04-30T23:00:00.000Z",
+            "label": "1995 Q2"
+        },
+        {
+            "Year": "1995 Q3",
+            "Households (and NPISH)": "70.96",
+            "Private non-financial corporations": "216.51",
+            "Financial corporations": "480.31",
+            "Total private sector liabilities": "767.79",
+            "date": "1995-07-31T23:00:00.000Z",
+            "label": "1995 Q3"
+        },
+        {
+            "Year": "1995 Q4",
+            "Households (and NPISH)": "70.95",
+            "Private non-financial corporations": "219.96",
+            "Financial corporations": "495.51",
+            "Total private sector liabilities": "786.42",
+            "date": "1995-11-01T00:00:00.000Z",
+            "label": "1995 Q4"
+        },
+        {
+            "Year": "1996 Q1",
+            "Households (and NPISH)": "70.28",
+            "Private non-financial corporations": "220.61",
+            "Financial corporations": "511.05",
+            "Total private sector liabilities": "801.94",
+            "date": "1996-02-01T00:00:00.000Z",
+            "label": "1996 Q1"
+        },
+        {
+            "Year": "1996 Q2",
+            "Households (and NPISH)": "70.01",
+            "Private non-financial corporations": "221.34",
+            "Financial corporations": "514.19",
+            "Total private sector liabilities": "805.54",
+            "date": "1996-04-30T23:00:00.000Z",
+            "label": "1996 Q2"
+        },
+        {
+            "Year": "1996 Q3",
+            "Households (and NPISH)": "69.64",
+            "Private non-financial corporations": "220.24",
+            "Financial corporations": "518.18",
+            "Total private sector liabilities": "808.06",
+            "date": "1996-07-31T23:00:00.000Z",
+            "label": "1996 Q3"
+        },
+        {
+            "Year": "1996 Q4",
+            "Households (and NPISH)": "69.10",
+            "Private non-financial corporations": "219.48",
+            "Financial corporations": "509.71",
+            "Total private sector liabilities": "798.28",
+            "date": "1996-11-01T00:00:00.000Z",
+            "label": "1996 Q4"
+        },
+        {
+            "Year": "1997 Q1",
+            "Households (and NPISH)": "69.07",
+            "Private non-financial corporations": "223.03",
+            "Financial corporations": "533.03",
+            "Total private sector liabilities": "825.12",
+            "date": "1997-02-01T00:00:00.000Z",
+            "label": "1997 Q1"
+        },
+        {
+            "Year": "1997 Q2",
+            "Households (and NPISH)": "69.37",
+            "Private non-financial corporations": "224.65",
+            "Financial corporations": "546.37",
+            "Total private sector liabilities": "840.40",
+            "date": "1997-04-30T23:00:00.000Z",
+            "label": "1997 Q2"
+        },
+        {
+            "Year": "1997 Q3",
+            "Households (and NPISH)": "69.62",
+            "Private non-financial corporations": "238.68",
+            "Financial corporations": "563.52",
+            "Total private sector liabilities": "871.81",
+            "date": "1997-07-31T23:00:00.000Z",
+            "label": "1997 Q3"
+        },
+        {
+            "Year": "1997 Q4",
+            "Households (and NPISH)": "69.91",
+            "Private non-financial corporations": "237.35",
+            "Financial corporations": "576.61",
+            "Total private sector liabilities": "883.87",
+            "date": "1997-11-01T00:00:00.000Z",
+            "label": "1997 Q4"
+        },
+        {
+            "Year": "1998 Q1",
+            "Households (and NPISH)": "70.25",
+            "Private non-financial corporations": "257.21",
+            "Financial corporations": "593.79",
+            "Total private sector liabilities": "921.25",
+            "date": "1998-02-01T00:00:00.000Z",
+            "label": "1998 Q1"
+        },
+        {
+            "Year": "1998 Q2",
+            "Households (and NPISH)": "70.85",
+            "Private non-financial corporations": "264.27",
+            "Financial corporations": "601.14",
+            "Total private sector liabilities": "936.26",
+            "date": "1998-04-30T23:00:00.000Z",
+            "label": "1998 Q2"
+        },
+        {
+            "Year": "1998 Q3",
+            "Households (and NPISH)": "71.73",
+            "Private non-financial corporations": "254.15",
+            "Financial corporations": "603.45",
+            "Total private sector liabilities": "929.33",
+            "date": "1998-07-31T23:00:00.000Z",
+            "label": "1998 Q3"
+        },
+        {
+            "Year": "1998 Q4",
+            "Households (and NPISH)": "71.86",
+            "Private non-financial corporations": "265.67",
+            "Financial corporations": "604.56",
+            "Total private sector liabilities": "942.10",
+            "date": "1998-11-01T00:00:00.000Z",
+            "label": "1998 Q4"
+        },
+        {
+            "Year": "1999 Q1",
+            "Households (and NPISH)": "71.92",
+            "Private non-financial corporations": "274.15",
+            "Financial corporations": "621.55",
+            "Total private sector liabilities": "967.62",
+            "date": "1999-02-01T00:00:00.000Z",
+            "label": "1999 Q1"
+        },
+        {
+            "Year": "1999 Q2",
+            "Households (and NPISH)": "72.17",
+            "Private non-financial corporations": "283.25",
+            "Financial corporations": "624.75",
+            "Total private sector liabilities": "980.17",
+            "date": "1999-04-30T23:00:00.000Z",
+            "label": "1999 Q2"
+        },
+        {
+            "Year": "1999 Q3",
+            "Households (and NPISH)": "72.75",
+            "Private non-financial corporations": "271.47",
+            "Financial corporations": "614.00",
+            "Total private sector liabilities": "958.21",
+            "date": "1999-07-31T23:00:00.000Z",
+            "label": "1999 Q3"
+        },
+        {
+            "Year": "1999 Q4",
+            "Households (and NPISH)": "73.47",
+            "Private non-financial corporations": "295.57",
+            "Financial corporations": "619.09",
+            "Total private sector liabilities": "988.13",
+            "date": "1999-11-01T00:00:00.000Z",
+            "label": "1999 Q4"
+        },
+        {
+            "Year": "2000 Q1",
+            "Households (and NPISH)": "73.91",
+            "Private non-financial corporations": "303.86",
+            "Financial corporations": "637.30",
+            "Total private sector liabilities": "1015.07",
+            "date": "2000-02-01T00:00:00.000Z",
+            "label": "2000 Q1"
+        },
+        {
+            "Year": "2000 Q2",
+            "Households (and NPISH)": "74.47",
+            "Private non-financial corporations": "301.77",
+            "Financial corporations": "655.95",
+            "Total private sector liabilities": "1032.19",
+            "date": "2000-04-30T23:00:00.000Z",
+            "label": "2000 Q2"
+        },
+        {
+            "Year": "2000 Q3",
+            "Households (and NPISH)": "74.88",
+            "Private non-financial corporations": "303.57",
+            "Financial corporations": "661.14",
+            "Total private sector liabilities": "1039.59",
+            "date": "2000-07-31T23:00:00.000Z",
+            "label": "2000 Q3"
+        },
+        {
+            "Year": "2000 Q4",
+            "Households (and NPISH)": "75.36",
+            "Private non-financial corporations": "298.74",
+            "Financial corporations": "660.67",
+            "Total private sector liabilities": "1034.78",
+            "date": "2000-11-01T00:00:00.000Z",
+            "label": "2000 Q4"
+        },
+        {
+            "Year": "2001 Q1",
+            "Households (and NPISH)": "76.47",
+            "Private non-financial corporations": "285.91",
+            "Financial corporations": "690.53",
+            "Total private sector liabilities": "1052.92",
+            "date": "2001-02-01T00:00:00.000Z",
+            "label": "2001 Q1"
+        },
+        {
+            "Year": "2001 Q2",
+            "Households (and NPISH)": "77.54",
+            "Private non-financial corporations": "282.23",
+            "Financial corporations": "684.33",
+            "Total private sector liabilities": "1044.10",
+            "date": "2001-04-30T23:00:00.000Z",
+            "label": "2001 Q2"
+        },
+        {
+            "Year": "2001 Q3",
+            "Households (and NPISH)": "79.04",
+            "Private non-financial corporations": "264.22",
+            "Financial corporations": "669.13",
+            "Total private sector liabilities": "1012.39",
+            "date": "2001-07-31T23:00:00.000Z",
+            "label": "2001 Q3"
+        },
+        {
+            "Year": "2001 Q4",
+            "Households (and NPISH)": "80.60",
+            "Private non-financial corporations": "274.35",
+            "Financial corporations": "672.32",
+            "Total private sector liabilities": "1027.27",
+            "date": "2001-11-01T00:00:00.000Z",
+            "label": "2001 Q4"
+        },
+        {
+            "Year": "2002 Q1",
+            "Households (and NPISH)": "82.20",
+            "Private non-financial corporations": "278.10",
+            "Financial corporations": "678.18",
+            "Total private sector liabilities": "1038.48",
+            "date": "2002-02-01T00:00:00.000Z",
+            "label": "2002 Q1"
+        },
+        {
+            "Year": "2002 Q2",
+            "Households (and NPISH)": "84.03",
+            "Private non-financial corporations": "265.30",
+            "Financial corporations": "676.46",
+            "Total private sector liabilities": "1025.79",
+            "date": "2002-04-30T23:00:00.000Z",
+            "label": "2002 Q2"
+        },
+        {
+            "Year": "2002 Q3",
+            "Households (and NPISH)": "86.13",
+            "Private non-financial corporations": "248.04",
+            "Financial corporations": "654.15",
+            "Total private sector liabilities": "988.32",
+            "date": "2002-07-31T23:00:00.000Z",
+            "label": "2002 Q3"
+        },
+        {
+            "Year": "2002 Q4",
+            "Households (and NPISH)": "87.23",
+            "Private non-financial corporations": "248.35",
+            "Financial corporations": "659.15",
+            "Total private sector liabilities": "994.73",
+            "date": "2002-11-01T00:00:00.000Z",
+            "label": "2002 Q4"
+        },
+        {
+            "Year": "2003 Q1",
+            "Households (and NPISH)": "88.04",
+            "Private non-financial corporations": "237.16",
+            "Financial corporations": "685.29",
+            "Total private sector liabilities": "1010.49",
+            "date": "2003-02-01T00:00:00.000Z",
+            "label": "2003 Q1"
+        },
+        {
+            "Year": "2003 Q2",
+            "Households (and NPISH)": "89.37",
+            "Private non-financial corporations": "244.15",
+            "Financial corporations": "698.20",
+            "Total private sector liabilities": "1031.71",
+            "date": "2003-04-30T23:00:00.000Z",
+            "label": "2003 Q2"
+        },
+        {
+            "Year": "2003 Q3",
+            "Households (and NPISH)": "91.10",
+            "Private non-financial corporations": "241.90",
+            "Financial corporations": "700.13",
+            "Total private sector liabilities": "1033.13",
+            "date": "2003-07-31T23:00:00.000Z",
+            "label": "2003 Q3"
+        },
+        {
+            "Year": "2003 Q4",
+            "Households (and NPISH)": "92.61",
+            "Private non-financial corporations": "245.15",
+            "Financial corporations": "695.71",
+            "Total private sector liabilities": "1033.46",
+            "date": "2003-11-01T00:00:00.000Z",
+            "label": "2003 Q4"
+        },
+        {
+            "Year": "2004 Q1",
+            "Households (and NPISH)": "94.33",
+            "Private non-financial corporations": "242.61",
+            "Financial corporations": "808.71",
+            "Total private sector liabilities": "1145.65",
+            "date": "2004-02-01T00:00:00.000Z",
+            "label": "2004 Q1"
+        },
+        {
+            "Year": "2004 Q2",
+            "Households (and NPISH)": "95.64",
+            "Private non-financial corporations": "240.84",
+            "Financial corporations": "794.96",
+            "Total private sector liabilities": "1131.44",
+            "date": "2004-04-30T23:00:00.000Z",
+            "label": "2004 Q2"
+        },
+        {
+            "Year": "2004 Q3",
+            "Households (and NPISH)": "97.14",
+            "Private non-financial corporations": "241.47",
+            "Financial corporations": "818.13",
+            "Total private sector liabilities": "1156.74",
+            "date": "2004-07-31T23:00:00.000Z",
+            "label": "2004 Q3"
+        },
+        {
+            "Year": "2004 Q4",
+            "Households (and NPISH)": "98.39",
+            "Private non-financial corporations": "245.52",
+            "Financial corporations": "847.38",
+            "Total private sector liabilities": "1191.30",
+            "date": "2004-11-01T00:00:00.000Z",
+            "label": "2004 Q4"
+        },
+        {
+            "Year": "2005 Q1",
+            "Households (and NPISH)": "98.38",
+            "Private non-financial corporations": "247.30",
+            "Financial corporations": "864.26",
+            "Total private sector liabilities": "1209.93",
+            "date": "2005-02-01T00:00:00.000Z",
+            "label": "2005 Q1"
+        },
+        {
+            "Year": "2005 Q2",
+            "Households (and NPISH)": "99.34",
+            "Private non-financial corporations": "251.98",
+            "Financial corporations": "907.65",
+            "Total private sector liabilities": "1258.96",
+            "date": "2005-04-30T23:00:00.000Z",
+            "label": "2005 Q2"
+        },
+        {
+            "Year": "2005 Q3",
+            "Households (and NPISH)": "98.13",
+            "Private non-financial corporations": "259.59",
+            "Financial corporations": "913.71",
+            "Total private sector liabilities": "1271.44",
+            "date": "2005-07-31T23:00:00.000Z",
+            "label": "2005 Q3"
+        },
+        {
+            "Year": "2005 Q4",
+            "Households (and NPISH)": "98.33",
+            "Private non-financial corporations": "260.31",
+            "Financial corporations": "932.89",
+            "Total private sector liabilities": "1291.52",
+            "date": "2005-11-01T00:00:00.000Z",
+            "label": "2005 Q4"
+        },
+        {
+            "Year": "2006 Q1",
+            "Households (and NPISH)": "98.34",
+            "Private non-financial corporations": "262.97",
+            "Financial corporations": "966.34",
+            "Total private sector liabilities": "1327.65",
+            "date": "2006-02-01T00:00:00.000Z",
+            "label": "2006 Q1"
+        },
+        {
+            "Year": "2006 Q2",
+            "Households (and NPISH)": "99.60",
+            "Private non-financial corporations": "254.23",
+            "Financial corporations": "953.75",
+            "Total private sector liabilities": "1307.58",
+            "date": "2006-04-30T23:00:00.000Z",
+            "label": "2006 Q2"
+        },
+        {
+            "Year": "2006 Q3",
+            "Households (and NPISH)": "101.89",
+            "Private non-financial corporations": "258.83",
+            "Financial corporations": "982.29",
+            "Total private sector liabilities": "1343.02",
+            "date": "2006-07-31T23:00:00.000Z",
+            "label": "2006 Q3"
+        },
+        {
+            "Year": "2006 Q4",
+            "Households (and NPISH)": "103.50",
+            "Private non-financial corporations": "260.80",
+            "Financial corporations": "972.58",
+            "Total private sector liabilities": "1336.88",
+            "date": "2006-11-01T00:00:00.000Z",
+            "label": "2006 Q4"
+        },
+        {
+            "Year": "2007 Q1",
+            "Households (and NPISH)": "104.17",
+            "Private non-financial corporations": "256.03",
+            "Financial corporations": "1004.61",
+            "Total private sector liabilities": "1364.81",
+            "date": "2007-02-01T00:00:00.000Z",
+            "label": "2007 Q1"
+        },
+        {
+            "Year": "2007 Q2",
+            "Households (and NPISH)": "104.83",
+            "Private non-financial corporations": "252.08",
+            "Financial corporations": "1025.79",
+            "Total private sector liabilities": "1382.70",
+            "date": "2007-04-30T23:00:00.000Z",
+            "label": "2007 Q2"
+        },
+        {
+            "Year": "2007 Q3",
+            "Households (and NPISH)": "105.88",
+            "Private non-financial corporations": "256.98",
+            "Financial corporations": "1043.17",
+            "Total private sector liabilities": "1406.03",
+            "date": "2007-07-31T23:00:00.000Z",
+            "label": "2007 Q3"
+        },
+        {
+            "Year": "2007 Q4",
+            "Households (and NPISH)": "105.72",
+            "Private non-financial corporations": "262.34",
+            "Financial corporations": "1070.96",
+            "Total private sector liabilities": "1439.02",
+            "date": "2007-11-01T00:00:00.000Z",
+            "label": "2007 Q4"
+        },
+        {
+            "Year": "2008 Q1",
+            "Households (and NPISH)": "105.43",
+            "Private non-financial corporations": "251.75",
+            "Financial corporations": "1205.76",
+            "Total private sector liabilities": "1562.94",
+            "date": "2008-02-01T00:00:00.000Z",
+            "label": "2008 Q1"
+        },
+        {
+            "Year": "2008 Q2",
+            "Households (and NPISH)": "104.73",
+            "Private non-financial corporations": "241.02",
+            "Financial corporations": "1124.11",
+            "Total private sector liabilities": "1469.85",
+            "date": "2008-04-30T23:00:00.000Z",
+            "label": "2008 Q2"
+        },
+        {
+            "Year": "2008 Q3",
+            "Households (and NPISH)": "104.85",
+            "Private non-financial corporations": "232.07",
+            "Financial corporations": "1177.04",
+            "Total private sector liabilities": "1513.96",
+            "date": "2008-07-31T23:00:00.000Z",
+            "label": "2008 Q3"
+        },
+        {
+            "Year": "2008 Q4",
+            "Households (and NPISH)": "105.61",
+            "Private non-financial corporations": "245.61",
+            "Financial corporations": "1551.52",
+            "Total private sector liabilities": "1902.74",
+            "date": "2008-11-01T00:00:00.000Z",
+            "label": "2008 Q4"
+        },
+        {
+            "Year": "2009 Q1",
+            "Households (and NPISH)": "106.57",
+            "Private non-financial corporations": "243.85",
+            "Financial corporations": "1549.68",
+            "Total private sector liabilities": "1900.10",
+            "date": "2009-02-01T00:00:00.000Z",
+            "label": "2009 Q1"
+        },
+        {
+            "Year": "2009 Q2",
+            "Households (and NPISH)": "107.20",
+            "Private non-financial corporations": "245.86",
+            "Financial corporations": "1316.30",
+            "Total private sector liabilities": "1669.35",
+            "date": "2009-04-30T23:00:00.000Z",
+            "label": "2009 Q2"
+        },
+        {
+            "Year": "2009 Q3",
+            "Households (and NPISH)": "107.47",
+            "Private non-financial corporations": "267.60",
+            "Financial corporations": "1370.66",
+            "Total private sector liabilities": "1745.73",
+            "date": "2009-07-31T23:00:00.000Z",
+            "label": "2009 Q3"
+        },
+        {
+            "Year": "2009 Q4",
+            "Households (and NPISH)": "106.81",
+            "Private non-financial corporations": "259.72",
+            "Financial corporations": "1304.94",
+            "Total private sector liabilities": "1671.48",
+            "date": "2009-11-01T00:00:00.000Z",
+            "label": "2009 Q4"
+        },
+        {
+            "Year": "2010 Q1",
+            "Households (and NPISH)": "106.66",
+            "Private non-financial corporations": "269.10",
+            "Financial corporations": "1409.13",
+            "Total private sector liabilities": "1784.89",
+            "date": "2010-02-01T00:00:00.000Z",
+            "label": "2010 Q1"
+        },
+        {
+            "Year": "2010 Q2",
+            "Households (and NPISH)": "104.67",
+            "Private non-financial corporations": "251.95",
+            "Financial corporations": "1432.58",
+            "Total private sector liabilities": "1789.20",
+            "date": "2010-04-30T23:00:00.000Z",
+            "label": "2010 Q2"
+        },
+        {
+            "Year": "2010 Q3",
+            "Households (and NPISH)": "103.69",
+            "Private non-financial corporations": "264.23",
+            "Financial corporations": "1506.80",
+            "Total private sector liabilities": "1874.72",
+            "date": "2010-07-31T23:00:00.000Z",
+            "label": "2010 Q3"
+        },
+        {
+            "Year": "2010 Q4",
+            "Households (and NPISH)": "101.82",
+            "Private non-financial corporations": "260.97",
+            "Financial corporations": "1349.11",
+            "Total private sector liabilities": "1711.90",
+            "date": "2010-11-01T00:00:00.000Z",
+            "label": "2010 Q4"
+        },
+        {
+            "Year": "2011 Q1",
+            "Households (and NPISH)": "100.77",
+            "Private non-financial corporations": "254.10",
+            "Financial corporations": "1284.56",
+            "Total private sector liabilities": "1639.43",
+            "date": "2011-02-01T00:00:00.000Z",
+            "label": "2011 Q1"
+        },
+        {
+            "Year": "2011 Q2",
+            "Households (and NPISH)": "100.28",
+            "Private non-financial corporations": "256.18",
+            "Financial corporations": "1291.18",
+            "Total private sector liabilities": "1647.64",
+            "date": "2011-04-30T23:00:00.000Z",
+            "label": "2011 Q2"
+        },
+        {
+            "Year": "2011 Q3",
+            "Households (and NPISH)": "100.45",
+            "Private non-financial corporations": "252.23",
+            "Financial corporations": "1486.95",
+            "Total private sector liabilities": "1839.63",
+            "date": "2011-07-31T23:00:00.000Z",
+            "label": "2011 Q3"
+        },
+        {
+            "Year": "2011 Q4",
+            "Households (and NPISH)": "99.72",
+            "Private non-financial corporations": "260.67",
+            "Financial corporations": "1433.11",
+            "Total private sector liabilities": "1793.50",
+            "date": "2011-11-01T00:00:00.000Z",
+            "label": "2011 Q4"
+        },
+        {
+            "Year": "2012 Q1",
+            "Households (and NPISH)": "98.49",
+            "Private non-financial corporations": "266.23",
+            "Financial corporations": "1366.09",
+            "Total private sector liabilities": "1730.81",
+            "date": "2012-02-01T00:00:00.000Z",
+            "label": "2012 Q1"
+        },
+        {
+            "Year": "2012 Q2",
+            "Households (and NPISH)": "98.54",
+            "Private non-financial corporations": "265.66",
+            "Financial corporations": "1393.51",
+            "Total private sector liabilities": "1757.72",
+            "date": "2012-04-30T23:00:00.000Z",
+            "label": "2012 Q2"
+        },
+        {
+            "Year": "2012 Q3",
+            "Households (and NPISH)": "98.11",
+            "Private non-financial corporations": "264.02",
+            "Financial corporations": "1375.67",
+            "Total private sector liabilities": "1737.80",
+            "date": "2012-07-31T23:00:00.000Z",
+            "label": "2012 Q3"
+        },
+        {
+            "Year": "2012 Q4",
+            "Households (and NPISH)": "97.65",
+            "Private non-financial corporations": "264.48",
+            "Financial corporations": "1340.27",
+            "Total private sector liabilities": "1702.39",
+            "date": "2012-11-01T00:00:00.000Z",
+            "label": "2012 Q4"
+        },
+        {
+            "Year": "2013 Q1",
+            "Households (and NPISH)": "97.39",
+            "Private non-financial corporations": "266.20",
+            "Financial corporations": "1349.12",
+            "Total private sector liabilities": "1712.71",
+            "date": "2013-02-01T00:00:00.000Z",
+            "label": "2013 Q1"
+        },
+        {
+            "Year": "2013 Q2",
+            "Households (and NPISH)": "95.83",
+            "Private non-financial corporations": "253.49",
+            "Financial corporations": "1306.87",
+            "Total private sector liabilities": "1656.18",
+            "date": "2013-04-30T23:00:00.000Z",
+            "label": "2013 Q2"
+        },
+        {
+            "Year": "2013 Q3",
+            "Households (and NPISH)": "95.00",
+            "Private non-financial corporations": "254.98",
+            "Financial corporations": "1234.77",
+            "Total private sector liabilities": "1584.74",
+            "date": "2013-07-31T23:00:00.000Z",
+            "label": "2013 Q3"
+        },
+        {
+            "Year": "2013 Q4",
+            "Households (and NPISH)": "93.95",
+            "Private non-financial corporations": "246.49",
+            "Financial corporations": "1187.78",
+            "Total private sector liabilities": "1528.22",
+            "date": "2013-11-01T00:00:00.000Z",
+            "label": "2013 Q4"
+        },
+        {
+            "Year": "2014 Q1",
+            "Households (and NPISH)": "93.64",
+            "Private non-financial corporations": "248.90",
+            "Financial corporations": "1119.91",
+            "Total private sector liabilities": "1462.45",
+            "date": "2014-02-01T00:00:00.000Z",
+            "label": "2014 Q1"
+        },
+        {
+            "Year": "2014 Q2",
+            "Households (and NPISH)": "92.97",
+            "Private non-financial corporations": "247.58",
+            "Financial corporations": "1097.17",
+            "Total private sector liabilities": "1437.72",
+            "date": "2014-04-30T23:00:00.000Z",
+            "label": "2014 Q2"
+        },
+        {
+            "Year": "2014 Q3",
+            "Households (and NPISH)": "92.74",
+            "Private non-financial corporations": "256.64",
+            "Financial corporations": "1127.48",
+            "Total private sector liabilities": "1476.87",
+            "date": "2014-07-31T23:00:00.000Z",
+            "label": "2014 Q3"
+        },
+        {
+            "Year": "2014 Q4",
+            "Households (and NPISH)": "92.87",
+            "Private non-financial corporations": "259.38",
+            "Financial corporations": "1183.90",
+            "Total private sector liabilities": "1536.15",
+            "date": "2014-11-01T00:00:00.000Z",
+            "label": "2014 Q4"
+        },
+        {
+            "Year": "2015 Q1",
+            "Households (and NPISH)": "93.03",
+            "Private non-financial corporations": "260.27",
+            "Financial corporations": "1187.75",
+            "Total private sector liabilities": "1541.06",
+            "date": "2015-02-01T00:00:00.000Z",
+            "label": "2015 Q1"
+        },
+        {
+            "Year": "2015 Q2",
+            "Households (and NPISH)": "92.33",
+            "Private non-financial corporations": "244.93",
+            "Financial corporations": "1064.11",
+            "Total private sector liabilities": "1401.37",
+            "date": "2015-04-30T23:00:00.000Z",
+            "label": "2015 Q2"
+        },
+        {
+            "Year": "2015 Q3",
+            "Households (and NPISH)": "92.64",
+            "Private non-financial corporations": "246.51",
+            "Financial corporations": "1095.03",
+            "Total private sector liabilities": "1434.18",
+            "date": "2015-07-31T23:00:00.000Z",
+            "label": "2015 Q3"
+        }
+    ],
+    "headers": [
+        "Year",
+        "Households (and NPISH)",
+        "Private non-financial corporations",
+        "Financial corporations",
+        "Total private sector liabilities"
+    ],
+    "series": [
+        "Households (and NPISH)",
+        "Private non-financial corporations",
+        "Financial corporations",
+        "Total private sector liabilities"
+    ],
+    "categories": [
+        "1987 Q4",
+        "1988 Q1",
+        "1988 Q2",
+        "1988 Q3",
+        "1988 Q4",
+        "1989 Q1",
+        "1989 Q2",
+        "1989 Q3",
+        "1989 Q4",
+        "1990 Q1",
+        "1990 Q2",
+        "1990 Q3",
+        "1990 Q4",
+        "1991 Q1",
+        "1991 Q2",
+        "1991 Q3",
+        "1991 Q4",
+        "1992 Q1",
+        "1992 Q2",
+        "1992 Q3",
+        "1992 Q4",
+        "1993 Q1",
+        "1993 Q2",
+        "1993 Q3",
+        "1993 Q4",
+        "1994 Q1",
+        "1994 Q2",
+        "1994 Q3",
+        "1994 Q4",
+        "1995 Q1",
+        "1995 Q2",
+        "1995 Q3",
+        "1995 Q4",
+        "1996 Q1",
+        "1996 Q2",
+        "1996 Q3",
+        "1996 Q4",
+        "1997 Q1",
+        "1997 Q2",
+        "1997 Q3",
+        "1997 Q4",
+        "1998 Q1",
+        "1998 Q2",
+        "1998 Q3",
+        "1998 Q4",
+        "1999 Q1",
+        "1999 Q2",
+        "1999 Q3",
+        "1999 Q4",
+        "2000 Q1",
+        "2000 Q2",
+        "2000 Q3",
+        "2000 Q4",
+        "2001 Q1",
+        "2001 Q2",
+        "2001 Q3",
+        "2001 Q4",
+        "2002 Q1",
+        "2002 Q2",
+        "2002 Q3",
+        "2002 Q4",
+        "2003 Q1",
+        "2003 Q2",
+        "2003 Q3",
+        "2003 Q4",
+        "2004 Q1",
+        "2004 Q2",
+        "2004 Q3",
+        "2004 Q4",
+        "2005 Q1",
+        "2005 Q2",
+        "2005 Q3",
+        "2005 Q4",
+        "2006 Q1",
+        "2006 Q2",
+        "2006 Q3",
+        "2006 Q4",
+        "2007 Q1",
+        "2007 Q2",
+        "2007 Q3",
+        "2007 Q4",
+        "2008 Q1",
+        "2008 Q2",
+        "2008 Q3",
+        "2008 Q4",
+        "2009 Q1",
+        "2009 Q2",
+        "2009 Q3",
+        "2009 Q4",
+        "2010 Q1",
+        "2010 Q2",
+        "2010 Q3",
+        "2010 Q4",
+        "2011 Q1",
+        "2011 Q2",
+        "2011 Q3",
+        "2011 Q4",
+        "2012 Q1",
+        "2012 Q2",
+        "2012 Q3",
+        "2012 Q4",
+        "2013 Q1",
+        "2013 Q2",
+        "2013 Q3",
+        "2013 Q4",
+        "2014 Q1",
+        "2014 Q2",
+        "2014 Q3",
+        "2014 Q4",
+        "2015 Q1",
+        "2015 Q2",
+        "2015 Q3"
+    ],
+    "chartTypes": {
+        "Households (and NPISH)": "bar",
+        "Private non-financial corporations": "bar",
+        "Financial corporations": "bar",
+        "Total private sector liabilities": "line"
+    },
+    "groups": [
+        [
+            "Households (and NPISH)",
+            "Private non-financial corporations",
+            "Financial corporations"
+        ]
+    ],
+    "finishAtHundred": false,
+    "files": [
+        
+    ],
+    "type": "chart",
+    "uri": "/economy/nationalaccounts/uksectoraccounts/articles/nationalaccountsarticlestheukflowoffundsproject/identifyingsectoralinterconnectednessintheukeconomy/092bf764"
+}
