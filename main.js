@@ -1,7 +1,7 @@
 
 function getData() {
 	$.ajax({
-	url: "figure3-1.json",
+	url: "chart-3.json",
 	type: "get",
 	dataType: "JSON",
 	success: function(response) {
@@ -18,6 +18,8 @@ function getData() {
 function buildTable(data) {
 	// Store variables
 	var headersLength = data.headers.length,
+		categories = data.categories,
+		thisStr,
 		heading;
 	
 	// Body structure of table
@@ -38,10 +40,13 @@ function buildTable(data) {
 	
 	// Build tbody
 	$(data.data).each(function(i) {
-		var dataCells = '';
-		
+		var dataCells = '',
+			headingLabel = this.label;
 		$.each(this, function(key) {
-			if (key === '') {
+			thisStr = this.toString();
+			if (key == 'label') {
+				headingLabel = this.toString();
+			} else if (key === '' || thisStr == headingLabel) {
 				dataCells = dataCells + "<th scope='row'>" + this + "</th>";
 			} else if ($.inArray(key, heading) >= 0) {
 				dataCells = dataCells + "<td>" + this + "</td>";	
